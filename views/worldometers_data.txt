@@ -1,0 +1,1323 @@
+{"glbData":"Coronavirus Cases:
+32,209,019","news":"Latest News","newsDate":"September 24 (GMT)","updates":"Updates","firstUpdate":"Updates
+
+151 new cases and 3 new deaths in Bahamas [source]
+
+
+
+6,149 new cases and 98 new deaths in Peru [source]
+
+
+
+1,090 new cases and 9 new deaths in Canada [source]
+
+
+
+1 new case in Bermuda [source]
+
+
+
+2 new cases in Burundi [source]
+
+
+
+41,616 new cases and 1,112 new deaths in the United States
+
+
+
+12,625 new cases and 424 new deaths in Argentina [source]
+
+
+
+20 new cases and 1 new death in Suriname [source]
+
+
+
+706 new cases and 6 new deaths in Panama [source]
+
+
+
+12 new cases and 1 new death in Uruguay [source]
+
+
+
+32,445 new cases and 906 new deaths in Brazil [source] [source] [source]
+
+
+
+2,306 new cases and 24 new deaths in Czechia [source] [source]
+
+
+
+36 new cases in Cyprus [source]
+
+
+
+22 new cases in Burkina Faso [source]
+
+
+
+31 new cases in Benin [source]
+
+
+
+1,090 new cases and 9 new deaths in Canada [source]
+
+
+
+1 new case in Antigua and Barbuda [source]
+
+
+
+74 new cases in Luxembourg [source]
+
+
+
+111 new cases and 2 new deaths in Nigeria [source]
+
+
+
+290 new cases and 5 new deaths in Montenegro [source]
+
+
+
+124 new cases in Norway [source]
+
+
+
+121 new cases and 16 new deaths in Egypt [source]
+
+
+
+110 new cases and 2 new deaths in Trinidad and Tobago [source]
+
+
+
+330 new cases and 4 new deaths in Japan [source]
+
+
+
+91 new cases and 2 new deaths in Ghana [source]
+
+
+
+6,731 new cases and 176 new deaths in Colombia [source]
+
+
+
+2,029 new cases and 17 new deaths in Germany [source]
+
+
+
+22 new cases in Saint Barthélemy [source]
+
+
+
+37 new cases and 2 new deaths in Saint Martin [source]
+
+
+
+47 new cases in Guinea [source]
+
+
+
+160 new cases and 12 new deaths in Bulgaria [source]
+
+
+
+12 new cases in Gabon [source]
+
+
+
+98 new cases and 2 new deaths in Guyana [source]
+
+
+
+612 new cases and 4 new deaths in Bahrain [source]
+
+
+
+47 new cases and 3 new deaths in Syria [source]
+
+
+
+36 new cases and 2 new deaths in Eswatini [source]
+
+
+
+14 new cases and 1 new death in Zimbabwe [source]
+
+
+
+11,316 new cases and 40 new deaths in Israel [source]
+
+
+
+54 new cases and 1 new death in Zambia [source]
+
+
+
+130 new cases and 5 new deaths in Kenya [source]
+
+
+
+56 new cases and 1 new death in Namibia [source]
+
+
+
+3 new cases in Congo [source]
+
+
+
+92 new cases in Cameroon [source]
+ 
+
+
+9 new cases in Sierra Leone [source]
+
+
+
+4 new cases and 1 new death in Mali [source]
+
+
+
+18 new cases in Togo [source]
+
+
+
+9 new cases and 1 new death in Chad [source]
+
+
+
+7 new cases in Malawi [source]
+
+
+
+22 new cases in Mauritania [source]
+
+
+
+89,688 new cases and 1,152 new deaths in India [source] [source]
+
+
+
+1,906 new cases and 88 new deaths in South Africa [source]
+
+
+
+87 new cases in Côte d'Ivoire [source]
+
+
+
+41 new cases in Rwanda [source]
+
+
+
+1,370 new cases and 21 new deaths in Costa Rica [source]
+
+
+
+72 new cases in Andorra [source]
+
+
+
+11,289 new cases and 130 new deaths in Spain, of which 4,143 cases already validated by the Ministry of Health. Data are provisional and subject to change. For Sept. 16, 17, 18, and 21: figures for daily new cases only include cases already validated by the Ministry of Health in the daily PDF report. Since the validation process takes time to complete, additional cases are expected to be added retroactively once the weekly historical dataset revision is released by the Ministry of Health on Friday, Sept. 25. Data up to Sept. 15 reflects the latest release of the official \"Historical Series of Cases by Autonomous Community\" dataset released by the Ministry of Health. [source] [source]
+
+
+
+13,072 new cases and 43 new deaths in France [source]
+
+
+
+127 new cases and 4 new deaths in Angola [source]
+
+
+
+75 new cases and 2 new deaths in Cabo Verde [source]
+
+
+
+2 new cases in Gambia [source]
+
+
+
+24 new cases in French Guiana [source]
+
+
+
+2 new cases in Monaco [source]
+
+
+
+4 new cases in South Sudan [source]
+
+
+
+56 new cases in Aruba [source]
+
+
+
+86 new cases in Réunion [source]
+
+
+
+10 new cases in Curaçao [source]
+
+
+
+83 new cases and 2 new deaths in Lesotho [source]
+
+
+
+34 new cases in Belize [source]
+
+
+
+148 new cases and 4 new deaths in Mozambique [source]
+
+
+
+67 new cases in Maldives [source]
+
+
+
+2,249 new cases and 45 new deaths in Ecuador [source]
+
+
+
+231 new cases and 2 new deaths in Ireland. Validation of data at the HPSC has resulted in the denotification of 3 cases. The figure of 33675 total cases reflects this. [source]
+
+
+
+2,397 new cases and 29 new deaths in Morocco [source]
+
+
+
+186 new cases and 9 new deaths in Algeria [source]
+
+
+
+940 new cases and 13 new deaths in Lebanon [source]
+
+
+
+661 new cases and 14 new deaths in Ethiopia [source]
+
+
+
+2 new cases in Channel Islands [source]
+
+
+
+1,767 new cases and 72 new deaths in Turkey [source]
+
+
+
+1,380 new cases and 24 new deaths in Chile [source]
+
+
+
+11 new cases in Sri Lanka [source]
+
+
+
+468 new cases and 10 new deaths in the Dominican Republic [source]
+
+
+
+819 new cases and 17 new deaths in Guatemala [source]
+
+
+
+1 new case in Saint Pierre and Miquelon [source]
+
+
+
+358 new cases and 5 new deaths in Greece [source] [source]
+
+
+
+6,178 new cases and 37 new deaths in the United Kingdom [source]
+
+
+
+363 new cases and 2 new deaths in Jordan [source]
+
+
+
+1 new case in Yemen [source]
+
+
+
+1,640 new cases and 20 new deaths in Italy [source]
+
+
+
+182 new cases and 5 new deaths in the Republic of North Macedonia [source]
+
+
+
+121 new cases and 3 new deaths in Albania [source]
+
+
+
+125 new cases and 1 new death in Jamaica [source]
+
+
+
+786 new cases and 14 new deaths in Moldova [source]
+
+
+
+5,055 new cases and 72 new deaths in Iraq [source]
+
+
+
+ 13 new cases and 2 new deaths in Haiti [source]
+
+
+
+48 new cases and 1 new death in Cuba [source]
+
+
+
+146 new cases and 2 new deaths in Azerbaijan [source]
+
+
+
+802 new cases and 3 new deaths in Portugal [source]
+
+
+
+1 new case in Liberia [source]
+
+
+
+561 new cases and 27 new deaths in Saudi Arabia [source]
+
+
+
+81 new cases and 1 new death in Serbia [source]
+
+
+
+43 new cases and 1 new death in Tajikistan [source]
+
+
+
+549 new cases and 15 new deaths in Myanmar [source]
+
+
+
+590 new cases and 2 new deaths in Uzbekistan [source]
+
+
+
+651 new cases and 9 new deaths in Libya [source]
+
+
+
+344 new cases and 12 new deaths in Bosnia and Herzegovina [source]
+
+
+
+616 new cases and 2 new deaths in Kuwait [source]
+
+
+
+2,357 new cases and 5 new deaths in the Netherlands [source] [source] [source]
+
+
+
+335 new cases in Sweden
+
+
+
+15 new cases in the Caribbean Netherlands [source] [source] [source]
+
+
+
+167 new cases and 5 new deaths in Uganda [source]
+
+
+
+558 new cases and 2 new deaths in Denmark [source]
+
+
+
+14 new cases in the DR Congo [source]
+
+
+
+437 new cases and 6 new deaths in Switzerland [source] [source]
+
+
+
+1 new case in Liechtenstein [source]
+
+
+
+253 new cases and 5 new deaths in Belarus [source]
+
+
+
+503 new cases and 3 new deaths in the State of Palestine [source]
+
+
+
+2 new cases in Gibraltar [source]
+
+
+
+57 new cases in Iceland [source]
+
+
+
+3,605 new cases and 184 new deaths in Iran [source]
+
+
+
+1 new case in Vietnam [source]
+
+
+
+93 new cases and 2 new deaths in Finland [source] [source]
+
+
+
+31 new cases in Madagascar [source]
+
+
+
+1,172 new cases and 7 new deaths in Nepal [source]
+
+
+
+42 new cases and 2 new deaths in Malta: an 86-year-old and an 84-year-old man [source] [source] [source]
+
+
+
+36 new cases and 1 new death in Senegal [source]
+
+
+ 
+1,219 new cases and 10 new deaths in Tunisia [source]
+
+
+
+258 new cases and 1 new death in Qatar [source]
+
+
+
+1,083 new cases and 1 new death in the United Arab Emirates [source]
+
+
+
+1,767 new cases and 47 new deaths in Romania [source]
+
+
+
+1,666 new cases and 37 new deaths in Bangladesh [source]
+
+
+
+628 new cases and 10 new deaths in Oman [source]
+
+
+
+147 new cases and 3 new deaths in Malaysia [source]
+
+
+
+3 new cases in Faeroe Islands [source]
+
+
+
+3 new cases in China, Hong Kong SAR [source]
+
+
+
+2,817 new cases and 44 new deaths in the Philippines [source]
+
+
+
+974 new cases and 28 new deaths in Poland [source]
+
+
+
+136 new cases and 1 new death in Slovenia [source] [source]
+
+
+
+4,465 new cases and 140 new deaths in Indonesia [source]
+
+
+
+227 new cases and 2 new deaths in Georgia [source]
+
+
+
+338 new cases and 1 new death in Slovakia [source]
+
+
+
+73 new cases in Lithuania [source]
+
+
+
+681 new cases and 6 new deaths in Austria [source]
+
+
+
+204 new cases and 2 new deaths in Croatia [source]
+
+
+
+56 new cases in Estonia [source]
+
+
+
+6,431 new cases and 150 new deaths in Russia [source]
+
+
+
+12 new cases in Singapore [source]
+
+
+
+12 new cases in Latvia [source]
+
+
+
+951 new cases and 8 new deaths in Hungary [source]
+
+
+
+32 new cases and 5 new deaths in Australia [source] [source] [source] [source] [source]
+
+
+
+210 new cases and 4 new deaths in Armenia [source]
+
+
+
+5 new deaths in El Salvador [source]
+
+
+
+49 new cases and 1 new death in Afghanistan [source]
+
+
+
+3,497 new cases and 63 new deaths in Ukraine [source]
+
+
+
+88 new cases in Kyrgyzstan [source]
+
+
+
+3 new cases in Thailand [source]
+
+
+
+1,834 new cases and 5 new deaths in Belgium [source]
+
+
+
+532 new cases and 8 new deaths in Pakistan [source]
+
+
+
+4 new cases in the Turks and Caicos Islands [source]
+
+
+
+3 new cases in Sint Maarten [source]
+
+
+
+76 new cases in Kazakhstan [source]
+
+
+
+231 new cases and 2 new deaths in Honduras [source]
+
+
+
+6,149 new cases and 98 new deaths in Peru [source]
+
+
+
+9 new cases in New Zealand [source]
+
+
+
+467 new cases and 39 new deaths in Bolivia [source]
+
+
+
+110 new cases in South Korea [source]
+
+
+
+4,683 new cases and 651 new deaths in Mexico [source]
+
+
+
+10 new cases in China [source]
+
+","secondUpdate":"Updates
+
+1,010 new cases and 9 new deaths in Venezuela [source]
+
+
+
+14 new cases in Sri Lanka [source]
+
+
+
+568 new cases and 29 new deaths in Paraguay [source]
+
+
+
+474 new cases and 13 new deaths in Panama [source]
+
+
+
+1,248 new cases and 6 new deaths in Canada [source]
+
+
+
+49 new cases and 2 new deaths in Bahamas [source]
+
+
+
+16 new cases in the Central African Republic [source]
+
+
+
+12,027 new cases and 470 new deaths in Argentina [source]
+
+
+
+9 new cases in Curaçao [source]
+
+
+
+19 new cases and 3 new deaths in Suriname [source]
+
+
+
+10 new cases in Papua New Guinea [source]
+
+
+
+168 new cases and 2 new deaths in Martinique [source]
+
+
+
+2,394 new cases and 9 new deaths in Czechia [source]
+
+
+
+35,252 new cases and 809 new deaths in Brazil [source] [source] [source]
+
+
+
+1,061 new cases and 16 new deaths in Guadeloupe [source]
+
+
+
+112 new cases and 2 new deaths in Nicaragua [source]
+
+
+
+35,696 new cases and 979 new deaths in the United States
+NOTE: South Carolina: out of the 2,665 cases reported today, 769 represent new cases (739 confirmed and 30 probable) [source], while the rest are the result of a backlog (\"The test results cover a time frame of March 18 through September 17. They are reflected in Tuesday's cumulative numbers and assigned to the day the result was reported by the lab to the health care provider, according to DHEC.\" [source]). Worldometer has adjusted the historical time series accordingly
+
+
+
+81 new cases in Trinidad and Tobago [source]
+
+
+
+21 new cases in Guinea-Bissau [source]
+
+
+
+113 new cases and 19 new deaths in Egypt [source]
+
+
+
+7 new cases in Uruguay [source]
+
+
+
+176 new cases in Nigeria [source]
+
+
+
+296 new cases and 8 new deaths in Montenegro [source]
+
+
+
+100 new cases in Luxembourg [source]
+
+
+
+148 new cases in Norway [source]
+
+
+
+156 new cases and 2 new deaths in El Salvador [source]
+
+
+
+7,102 new cases and 173 new deaths in Colombia [source]
+
+
+
+298 new cases and 8 new deaths in Japan [source]
+
+
+
+5 new cases in Zimbabwe [source]
+
+
+
+1,248 new cases and 6 new deaths in Canada [source]
+
+
+
+56 new cases in Cabo Verde [source]
+
+
+
+35 new cases and 2 new deaths in Guyana [source]
+
+
+
+26 new cases in French Guiana [source]
+
+
+
+942 new cases and 13 new deaths in Guatemala [source]
+
+
+
+11 new cases in Burkina Faso [source]
+
+
+
+14 new cases and 2 new deaths in Gambia [source]
+
+
+
+109 new cases and 2 new deaths in Bulgaria [source]
+
+
+
+11 new cases in South Sudan [source]
+
+
+
+2 new cases in Monaco [source]
+
+
+
+4 new cases in Niger [source]
+
+
+
+650 new cases and 3 new deaths in Bahrain [source]
+
+
+
+16 new cases in Rwanda [source]
+
+
+
+19 new cases in Mauritania [source]
+
+
+
+3 new cases in Djibouti [source]
+
+
+
+119 new cases and 1 new death in Angola [source]
+
+
+
+1 new case in the Cayman Islands [source]
+
+
+
+14 new cases in Togo [source]
+
+
+
+1,625 new cases and 10 new deaths in Germany [source]
+
+
+
+23 new cases in Sudan [source]
+
+
+
+16 new cases in Côte d'Ivoire [source]
+
+
+
+80,391 new cases and 1,056 new deaths in India [source] [source]
+
+
+
+1,087 new cases and 15 new deaths in Costa Rica [source]
+
+
+
+48 new cases in Maldives [source]
+
+
+
+44 new cases and 3 new deaths in Syria [source]
+
+
+
+1,346 new cases and 126 new deaths in South Africa [source]
+
+
+
+78 new cases and 1 new death in Aruba [source]
+
+
+
+2 new cases in Chad [source]
+
+
+
+323 new cases in Ireland
+NOTE: \"HPSC has been notified of 334 confirmed cases of COVID-19. There has now been a total of 33,444* confirmed cases of COVID-19 in Ireland. (*Validation of data at the HPSC has resulted in the denotification of 12 confirmed cases. The figure of 33,444 confirmed cases reflects this.)
+Of the cases notified today: 158 are men and 175 are women\" [source] 
+ 
+Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historical data for daily cases and total cases that are in conflict with one another [source] (no adjustment of historical data is made when denotifications or backlogs occur, such as today) and, furthermore, there are slight discrepancies between the reported new cases (334), the sum of new cases by sex (158+175 = 333) and the arithmetical difference between today's total cumulative cases and yesterday's total after applying the 12 case denotification (33,444-33,109 = 335), Worldometer has updated based on the new total cases, which yelds a daily change of 323, representing the daily change in cumulative reported cases [source]
+
+
+
+43 new cases in Guinea [source]
+
+
+
+6 new cases and 1 new death in Mali [source]
+
+
+
+25 new cases and 2 new deaths in Eswatini [source]
+
+
+
+10,008 new cases and 78 new deaths in France [source] [source]
+
+
+
+6 new cases in Malawi [source]
+
+
+
+713 new cases and 19 new deaths in Ethiopia [source]
+
+
+
+16 new cases in Equatorial Guinea [source]
+
+
+
+2,227 new cases and 34 new deaths in Morocco [source]
+
+
+
+191 new cases and 10 new deaths in Algeria [source]
+
+
+
+615 new cases and 5 new deaths in Uzbekistan [source]
+
+
+
+865 new cases and 8 new deaths in Lebanon [source]
+
+
+
+6 new cases in Sierra Leone [source]
+
+
+
+202 new cases and 1 new death in Mozambique [source]
+
+
+
+10,799 new cases and 241 new deaths in Spain, of which 3,125 cases already validated by the Ministry of Health. Data are provisional and subject to change. For Sept. 16, 17, 18, and 21: figures for daily new cases only include cases already validated by the Ministry of Health in the daily PDF report. Since the validation process takes time to complete, additional cases are expected to be added retroactively once the weekly historical dataset revision is released by the Ministry of Health on Friday, Sept. 25. Data up to Sept. 15 reflects the latest release of the official \"Historical Series of Cases by Autonomous Community\" dataset released by the Ministry of Health. [source] [source]
+
+
+
+932 new cases and 31 new deaths in Ecuador [source]
+
+
+
+486 new cases and 10 new deaths in the Dominican Republic [source]
+
+
+
+1,692 new cases and 65 new deaths in Turkey [source]
+
+
+
+634 new cases and 1 new death in Jordan [source]
+
+
+
+127 new cases and 5 new deaths in Jamaica [source]
+
+
+
+1 new case in Liechtenstein [source]
+
+
+
+139 new cases and 9 new deaths in Kenya [source]
+
+
+
+15 new cases in Cyprus [source]
+
+
+
+4,926 new cases and 37 new deaths in the United Kingdom [source]
+
+
+
+131 new cases and 3 new deaths in Albania [source] [source]
+
+
+
+1,392 new cases and 14 new deaths in Italy [source]
+
+
+
+333 new cases and 8 new deaths in Greece [source]
+
+
+
+852 new cases in the United Arab Emirates [source]
+
+
+
+650 new cases and 19 new deaths in Moldova [source]
+
+
+
+4,724 new cases and 57 new deaths in Iraq [source]
+
+
+
+1,055 new cases and 23 new deaths in Chile [source]
+
+
+
+81 new cases and 3 new deaths in Namibia [source]
+
+
+
+14 new cases in Sri Lanka [source]
+
+
+
+81 new cases and 1 new death in Cuba [source]
+
+
+
+1 new case in Mauritius [source]
+
+
+
+592 new cases and 17 new deaths in Myanmar [source]
+
+
+
+18 new cases in the Caribbean Netherlands [source] [source] [source]
+
+
+
+63 new cases and 1 new death in Madagascar [source]
+
+
+
+214 new cases in Zambia [source]
+
+
+
+463 new cases and 5 new deaths in Portugal [source]
+
+
+
+87 new cases and 5 new deaths in the Republic of North Macedonia [source]
+
+
+
+44 new cases in Tajikistan [source]
+
+
+
+216 new cases and 8 new deaths in Bosnia and Herzegovina [source]
+
+
+
+61 new cases in Serbia [source]
+
+
+
+1,356 new cases and 2 new deaths in Nepal [source]
+
+
+
+552 new cases and 30 new deaths in Saudi Arabia [source]
+
+
+
+286 new cases and 4 new deaths in Switzerland [source] [source]
+
+
+
+218 new cases and 3 new deaths in Georgia [source]
+
+
+
+42 new cases in Iceland [source]
+
+
+
+313 new cases in Qatar [source]
+
+
+
+244 new cases and 1 new death in Uganda [source]
+
+
+
+2,245 new cases and 10 new deaths in the Netherlands [source] [source]
+
+
+
+476 new cases and 1 new death in Denmark [source]
+
+
+
+98 new cases and 2 new deaths in Azerbaijan [source]
+
+
+
+429 new cases and 4 new deaths in the State of Palestine [source]
+
+
+
+660 new cases and 12 new deaths in Oman [source]
+
+
+
+650 new cases and 10 new deaths in Libya [source]
+
+
+
+9 new cases and 2 new deaths in Haiti [source]
+
+
+
+719 new cases and 3 new deaths in Kuwait [source]
+
+
+
+3,712 new cases and 178 new deaths in Iran [source]
+
+
+
+206 new cases and 6 new deaths in Belarus [source]
+
+
+
+21 new cases in Senegal [source]
+
+
+
+38 new cases in Malta [source]
+
+
+
+1,059 new cases and 45 new deaths in Romania [source]
+
+
+
+5 new cases in Gibraltar [source]
+
+
+
+22 new cases and 1 new death in Afghanistan [source]
+
+
+
+11 new cases in Faeroe Islands [source]
+
+
+
+2,445 new cases and 12 new deaths in Israel [source]
+
+
+
+4 new cases in the DR Congo [source]
+
+
+
+1,557 new cases and 28 new deaths in Bangladesh [source]
+
+
+
+82 new cases in Malaysia [source]
+
+
+
+36 new cases in Estonia [source]
+
+
+
+149 new cases in Finland [source]
+
+
+
+711 new cases and 18 new deaths in Poland [source]
+
+
+
+88 new cases in Slovenia [source]
+
+
+
+175 new cases and 1 new death in Slovakia [source]
+
+
+
+ 4,071 new cases and 160 new deaths in Indonesia [source]
+
+
+
+645 new cases and 4 new deaths in Austria [source]
+
+
+
+8 new cases in China, Hong Kong SAR [source]
+
+
+
+45 new cases in Lithuania [source]
+
+
+
+144 new cases and 2 new deaths in Croatia [source]
+
+
+
+1,604 new cases and 48 new deaths in the Philippines [source]
+
+
+
+6,215 new cases and 160 new deaths in Russia [source]
+
+
+
+34 new cases in Latvia [source]
+
+
+
+21 new cases in Singapore [source]
+
+
+
+633 new cases and 8 new deaths in Hungary [source]
+
+
+
+115 new cases and 2 new deaths in Armenia [source]
+
+
+
+2,884 new cases and 59 new deaths in Ukraine [source]
+
+
+
+123 new cases in French Polynesia [source]
+
+
+
+71 new cases in Kyrgyzstan [source]
+
+
+
+5 new cases in Thailand [source]
+
+
+
+1 new case in Mongolia [source]
+
+
+
+8 new cases in Belize [source]
+
+
+
+7 new cases in Sint Maarten [source]
+
+
+
+582 new cases and 4 new deaths in Pakistan [source]
+
+
+
+1,097 new cases and 2 new deaths in Belgium [source]
+
+
+
+67 new cases and 4 new deaths in Kazakhstan [source]
+
+
+
+30 new cases and 3 new deaths in Australia [source] [source] [source] [source] [source]
+
+
+
+459 new cases and 20 new deaths in Honduras [source]
+
+
+
+310 new cases and 37 new deaths in Bolivia [source]
+
+
+
+528 new cases and 5 new deaths in Tunisia [source]
+
+
+
+3,650 new cases and 112 new deaths in Peru [source]
+
+
+
+61 new cases and 3 new deaths in South Korea [source]
+
+
+
+2,917 new cases and 204 new deaths in Mexico [source]
+
+
+
+6 new cases in China [source]
+
+"}
