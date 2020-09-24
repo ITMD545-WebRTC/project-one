@@ -30,19 +30,23 @@ async function run() {
 
     });
 
-    console.log(result);
-    var fs =require('fs');
+    var strResult = JSON.stringify(result);
+    //console.log(strResult);
+    var parsedResult = JSON.parse(strResult);
+    //console.log(parsedResult);
+    var formatResult = strResult.replace(/\\n/g, '\n');
+    console.log(formatResult);
+    fs.writeFile('../views/worldometers_data.txt', formatResult,{encoding:"utf-8"},function(err){
+    if (err) throw (err);
+    console.log('Data Saved in File');
 
-    fs.writeFile('../views/worldometers_data.txt', JSON.stringify(result),['utf8'],function(err){
-      if (err) throw (err);
-      console.log('Data Saved in File');
     });
+
   } catch (error) {
     console.error("Error: " +error.message);
   } finally {
     await browser.close();
   }
-
 }
 
 run();
