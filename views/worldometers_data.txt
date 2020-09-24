@@ -1,4 +1,5 @@
-{"news":"Latest News","newsDate":"September 24 (GMT)","updates":"Updates","firstUpdate":"Updates
+{"glbData":"Coronavirus Cases:
+32,209,019","news":"Latest News","newsDate":"September 24 (GMT)","updates":"Updates","firstUpdate":"Updates
 
 151 new cases and 3 new deaths in Bahamas [source]
 
@@ -68,7 +69,7 @@
 
 
 
-74 new cases in Luxembourg
+74 new cases in Luxembourg [source]
 
 
 
@@ -169,7 +170,7 @@
 
 
 92 new cases in Cameroon [source]
-
+ 
 
 
 9 new cases in Sierra Leone [source]
@@ -324,7 +325,7 @@
 
 
 
- 819 new cases and 17 new deaths in Guatemala [source]
+819 new cases and 17 new deaths in Guatemala [source]
 
 
 
@@ -372,7 +373,7 @@
 
 
 
-13 new cases and 2 new deaths in Haiti [source]
+ 13 new cases and 2 new deaths in Haiti [source]
 
 
 
@@ -499,7 +500,7 @@
 36 new cases and 1 new death in Senegal [source]
 
 
-
+ 
 1,219 new cases and 10 new deaths in Tunisia [source]
 
 
@@ -549,7 +550,7 @@
 
 
 4,465 new cases and 140 new deaths in Indonesia [source]
- 
+
 
 
 227 new cases and 2 new deaths in Georgia [source]
@@ -1205,7 +1206,7 @@ Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historica
 
 
 
-4,071 new cases and 160 new deaths in Indonesia [source]
+ 4,071 new cases and 160 new deaths in Indonesia [source]
 
 
 
@@ -1299,7 +1300,7 @@ Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historica
 
 310 new cases and 37 new deaths in Bolivia [source]
 
- 
+
 
 528 new cases and 5 new deaths in Tunisia [source]
 
