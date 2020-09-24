@@ -20,10 +20,11 @@ async function run() {
       let news = document.querySelector("h2").innerText;
       let newsDate = document.querySelector("h4").innerText;
       let updates = document.querySelector("span.news_category_title").innerText;
-      let firstUpdate = document.querySelector("div.news_post").innerText
+      let firstUpdate = document.querySelector("div#newsdate2020-09-23").innerText;
+      let secondUpdate = document.querySelector("div#newsdate2020-09-22").innerText;
       
       return {
-        news, newsDate, updates, firstUpdate
+        news, newsDate, updates, firstUpdate, secondUpdate
       }
       
     });
