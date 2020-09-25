@@ -1,5 +1,5 @@
 {"glbData":"Coronavirus Cases:
-32,411,415","news":"Latest News","newsDate":"September 25 (GMT)","updates":"Updates","firstUpdate":"Updates
+32,421,773","news":"Latest News","newsDate":"September 25 (GMT)","updates":"Updates","firstUpdate":"Updates
 
 151 new cases and 3 new deaths in Bahamas [source]
 
@@ -453,7 +453,7 @@
 
 
 
-1 new case in Liechtenstein [source] 
+1 new case in Liechtenstein [source]
 
 
 
@@ -641,7 +641,7 @@
 
 
 
-231 new cases and 2 new deaths in Honduras [source]
+ 231 new cases and 2 new deaths in Honduras [source]
 
 
 
@@ -900,7 +900,7 @@ NOTE: South Carolina: out of the 2,665 cases reported today, 769 represent new c
 
 323 new cases in Ireland
 NOTE: \"HPSC has been notified of 334 confirmed cases of COVID-19. There has now been a total of 33,444* confirmed cases of COVID-19 in Ireland. (*Validation of data at the HPSC has resulted in the denotification of 12 confirmed cases. The figure of 33,444 confirmed cases reflects this.)
-Of the cases notified today: 158 are men and 175 are women\" [source] 
+Of the cases notified today: 158 are men and 175 are women\" [source]
  
 Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historical data for daily cases and total cases that are in conflict with one another [source] (no adjustment of historical data is made when denotifications or backlogs occur, such as today) and, furthermore, there are slight discrepancies between the reported new cases (334), the sum of new cases by sex (158+175 = 333) and the arithmetical difference between today's total cumulative cases and yesterday's total after applying the 12 case denotification (33,444-33,109 = 335), Worldometer has updated based on the new total cases, which yelds a daily change of 323, representing the daily change in cumulative reported cases [source]
 
@@ -1123,7 +1123,7 @@ Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historica
 
 
 660 new cases and 12 new deaths in Oman [source]
- 
+
 
 
 650 new cases and 10 new deaths in Libya [source]

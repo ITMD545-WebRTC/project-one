@@ -18,15 +18,15 @@ async function run() {
 
   try {
     // readFile worldometers_data.txt and find diffs and output to console
-        var old_file = fs.readFileSync('../views/worldometers_data.txt', {encoding:"utf8"});
+        var old_file = fs.readFileSync('./views/worldometers_data.txt', {encoding:"utf8"});
         var fileEvent = new EventEmitter();
 
         fileEvent.on('changed file', function(data){
           console.log('The file was changed and fired an event. This data was received:\n' + data);
         });
 
-        fs.watch('../views/worldometers_data.txt', function(eventType, filename) {
-          fs.promises.readFile(`../views/${filename}`, {encoding:"utf8"})
+        fs.watch('./views/worldometers_data.txt', function(eventType, filename) {
+          fs.promises.readFile(`./views/${filename}`, {encoding:"utf8"})
             .then(function(data) {
             // only flash this message if the file's content has changed
             var new_file = data;
@@ -75,7 +75,7 @@ async function run() {
     //console.log(parsedResult);
     var formatResult = strResult.replace(/\\n/g, '\n');
     console.log(formatResult);
-    fs.writeFile('../views/worldometers_data.txt', formatResult,{encoding:"utf-8"},function(err){
+    fs.writeFile('./views/worldometers_data.txt', formatResult,{encoding:"utf-8"},function(err){
     if (err) throw (err);
     console.log('Newly fetched data Saved in File');
 
