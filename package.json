@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dstart": "DEBUG=socket-express:* npm start",
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "hello": "Hello thee :)"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
