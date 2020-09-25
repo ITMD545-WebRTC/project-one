@@ -1,5 +1,5 @@
 # uncomment out .gitignore to ignore the .gitignore file from being pushed to master repo
 # i'm only leaving this commented out to initially push it to our repo and will uncomment after pushing
-#.gitignore
+.gitignore
 node_modules
 package-lock.json

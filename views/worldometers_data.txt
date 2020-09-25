@@ -1,5 +1,5 @@
 {"glbData":"Coronavirus Cases:
-32,209,019","news":"Latest News","newsDate":"September 24 (GMT)","updates":"Updates","firstUpdate":"Updates
+32,411,415","news":"Latest News","newsDate":"September 25 (GMT)","updates":"Updates","firstUpdate":"Updates
 
 151 new cases and 3 new deaths in Bahamas [source]
 
@@ -21,7 +21,7 @@
 
 
 
-41,616 new cases and 1,112 new deaths in the United States
+41,616 new cases and 1,115 new deaths in the United States
 
 
 
@@ -170,7 +170,7 @@
 
 
 92 new cases in Cameroon [source]
- 
+
 
 
 9 new cases in Sierra Leone [source]
@@ -285,7 +285,7 @@
 
 
 
-231 new cases and 2 new deaths in Ireland. Validation of data at the HPSC has resulted in the denotification of 3 cases. The figure of 33675 total cases reflects this. [source]
+232 new cases and 2 new deaths in Ireland. Validation of data at the HPSC has resulted in the denotification of 3 cases. The figure of 33675 total cases reflects this. [source]
 
 
 
@@ -373,7 +373,7 @@
 
 
 
- 13 new cases and 2 new deaths in Haiti [source]
+13 new cases and 2 new deaths in Haiti [source]
 
 
 
@@ -453,7 +453,7 @@
 
 
 
-1 new case in Liechtenstein [source]
+1 new case in Liechtenstein [source] 
 
 
 
@@ -500,7 +500,7 @@
 36 new cases and 1 new death in Senegal [source]
 
 
- 
+
 1,219 new cases and 10 new deaths in Tunisia [source]
 
 
@@ -733,7 +733,7 @@
 
 
 
-35,696 new cases and 979 new deaths in the United States
+35,696 new cases and 978 new deaths in the United States
 NOTE: South Carolina: out of the 2,665 cases reported today, 769 represent new cases (739 confirmed and 30 probable) [source], while the rest are the result of a backlog (\"The test results cover a time frame of March 18 through September 17. They are reflected in Tuesday's cumulative numbers and assigned to the day the result was reported by the lab to the health care provider, according to DHEC.\" [source]). Worldometer has adjusted the historical time series accordingly
 
 
@@ -1123,7 +1123,7 @@ Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historica
 
 
 660 new cases and 12 new deaths in Oman [source]
-
+ 
 
 
 650 new cases and 10 new deaths in Libya [source]
@@ -1206,7 +1206,7 @@ Since Ireland's Health Protection Surveillance Centre (HPSC) maintains historica
 
 
 
- 4,071 new cases and 160 new deaths in Indonesia [source]
+4,071 new cases and 160 new deaths in Indonesia [source]
 
 
 
