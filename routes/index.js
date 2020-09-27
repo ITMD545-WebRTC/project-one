@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var covid = require('../lib/covid-data');
+const express = require('express');
+const router = express.Router();
+const covid = require('../lib/covid-data');
 
 /* GET home page. */
 router.get('/', async function(req, res, next) {
