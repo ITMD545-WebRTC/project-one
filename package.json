@@ -3,11 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dstart": "DEBUG=socket-express:* npm start",
+    "dstart": "cross-env DEBUG=project-one:* npm start",
     "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+    "cross-env": "^7.0.2",
     "debug": "~2.6.9",
     "diff": "^4.0.2",
     "express": "^4.16.4",
