@@ -57,10 +57,10 @@ async function run() {
               */
               var all_changes = file_changes.map((change, i) => {
                 if (change.added) {
-                  return `Added: ${change.value}`;
+                  return `<li class="ins">Added: ${change.value}</li>`;
                 }
                 if (change.removed) {
-                  return `Removed: ${change.value}`;
+                  return `<li class="del">Removed: ${change.value}</li>`;
                 }
               });
               fileEvent.emit('changed file', all_changes.join('\n'));
@@ -120,10 +120,6 @@ io.on('connection', function(socket){
     socket.emit('diffed changes', data);
   });
 });
-
-/* TODO: watch next lecture to see why event not firing
-
-*/
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
