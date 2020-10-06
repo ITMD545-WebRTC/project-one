@@ -1,45 +1,109 @@
-October 1 (GMT)
-the United States: 3,355 new cases and 38 new deaths
-Bangladesh: 1,508 new cases and 21 new deaths
-Malaysia: 260 new cases
-China, Hong Kong SAR: 10 new cases
-Finland: 111 new cases
-Slovenia: 175 new cases and 2 new deaths
+October 6 (GMT)
+Israel: 4,130 new cases and 27 new deaths
+Germany: 1,212 new cases and 11 new deaths
+Ecuador: 717 new cases and 21 new deaths
+Brazil: 6,414 new cases and 135 new deaths
+Czechia: 1,610 new cases and 31 new deaths
+Jordan: 1,537 new cases and 12 new deaths
+French Guiana: 13 new cases and 1 new death
+India: 42,307 new cases and 432 new deaths
+Cyprus: 29 new cases and 1 new death
+Mozambique: 102 new cases and 1 new death
+Luxembourg: 54 new cases and 1 new death
+Albania: 158 new cases and 3 new deaths
+Montenegro: 225 new cases and 6 new deaths
+the United Kingdom: 14,542 new cases and 76 new deaths
+Isle of Man: 1 new case
+South Sudan: 8 new cases
+Greece: 399 new cases and 3 new deaths
+Japan: 308 new cases and 3 new deaths
+the Dominican Republic: 317 new cases and 5 new deaths
+Italy: 2,677 new cases and 28 new deaths
+Jamaica: 97 new cases and 3 new deaths
+Guatemala: 688 new cases and 8 new deaths
+Canada: 548 new cases and 7 new deaths
+the Republic of North Macedonia: 223 new cases and 8 new deaths
+Moldova: 831 new cases and 14 new deaths
+Chile: 1,560 new cases and 33 new deaths
+Kenya: 137 new cases and 8 new deaths
+Trinidad and Tobago: 51 new cases and 1 new death
+the DR Congo: 11 new cases
+Cuba: 38 new cases
+Iraq: 4,172 new cases and 67 new deaths
+Portugal: 427 new cases and 14 new deaths
+Sri Lanka: 605 new cases
+Myanmar: 1,252 new cases and 27 new deaths
+Libya: 1,031 new cases and 6 new deaths
+Norway: 65 new cases
+Tajikistan: 40 new cases
+Gambia: 19 new cases and 2 new deaths
+Uzbekistan: 397 new cases and 4 new deaths
+Serbia: 120 new cases and 1 new death
+Zambia: 81 new cases and 1 new death
+Switzerland: 700 new cases and 3 new deaths
+Bosnia and Herzegovina: 261 new cases and 15 new deaths
+Saudi Arabia: 477 new cases and 25 new deaths
+Belarus: 394 new cases and 6 new deaths
+El Salvador: 95 new cases and 4 new deaths
+the Netherlands: 4,528 new cases and 21 new deaths
+Sweden: 5 new deaths
+Equatorial Guinea: 7 new cases
+the Central African Republic: 7 new cases
+the United States: 10,708 new cases and 206 new deaths
 Vietnam: 1 new case
-Lithuania: 91 new cases
-Afghanistan: 17 new cases
-Poland: 1,967 new cases and 30 new deaths
-Austria: 873 new cases and 3 new deaths
-El Salvador: 98 new cases and 5 new deaths
-Russia: 8,945 new cases and 169 new deaths
-Latvia: 44 new cases
-Croatia: 234 new cases and 4 new deaths
-the Philippines: 2,415 new cases and 59 new deaths
-Estonia: 81 new cases
-Singapore: 21 new cases
-Czechia: 63 new cases and 3 new deaths
-Georgia: 448 new cases
-Hungary: 848 new cases and 16 new deaths
-Armenia: 491 new cases and 4 new deaths
-Taiwan: 1 new case
-Australia: 18 new cases and 2 new deaths
-Ukraine: 4,069 new cases and 64 new deaths
-Israel: 2,639 new cases and 2 new deaths
-Uzbekistan: 250 new cases and 1 new death
-Kyrgyzstan: 172 new cases and 1 new death
-Thailand: 5 new cases
-Belize: 49 new cases and 1 new death
-India: 2,317 new cases
+Denmark: 322 new cases and 4 new deaths
+Iceland: 101 new cases
+Azerbaijan: 143 new cases and 2 new deaths
+Bahrain: 1 new death
+Kuwait: 676 new cases and 4 new deaths
+Madagascar: 30 new cases and 1 new death
+Mexico, out of the 28,115 newly reported cases and 2,789 newly reported deaths that occurred mostly: 3,417 new cases and 180 new deaths
+Senegal: 19 new cases
+Nepal: 1,551 new cases and 9 new deaths
+Iran: 4,151 new cases and 227 new deaths
+the United Arab Emirates: 1,061 new cases and 6 new deaths
+Malta: 47 new cases and 1 new death
+the Caribbean Netherlands: 17 new cases
+Gibraltar: 5 new cases
+Romania: 2,121 new cases and 73 new deaths
+Uganda: 117 new cases and 2 new deaths
+Slovenia: 189 new cases and 3 new deaths
+Malaysia: 691 new cases and 4 new deaths
+Afghanistan: 64 new cases and 1 new death
+Croatia: 287 new cases and 4 new deaths
+China, Hong Kong SAR: 8 new cases
+Oman: 834 new cases and 5 new deaths
+Austria: 923 new cases and 4 new deaths
+Liechtenstein: 3 new cases
+Bangladesh: 1,499 new cases and 30 new deaths
+Taiwan: 3 new cases
+Papua New Guinea: 1 new case
+Finland: 227 new cases
+Poland: 2,236 new cases and 58 new deaths
+Slovakia: 320 new cases
+Indonesia: 4,056 new cases and 121 new deaths
+Singapore: 11 new cases
+the Philippines: 2,093 new cases and 25 new deaths
+Estonia: 42 new cases
+Lithuania: 81 new cases and 5 new deaths
+Latvia: 68 new cases and 1 new death
+Russia: 11,615 new cases and 188 new deaths
+Armenia: 406 new cases and 6 new deaths
+Hungary: 818 new cases and 20 new deaths
+Georgia: 549 new cases and 4 new deaths
+Ukraine: 4,348 new cases and 90 new deaths
+Belize: 8 new cases
+Kyrgyzstan: 164 new cases
+Thailand: 10 new cases
 Bhutan: 1 new case
-Bahamas: 101 new cases and 1 new death
-Pakistan: 543 new cases and 5 new deaths
-Kazakhstan: 71 new cases
-Belgium: 1,337 new cases and 15 new deaths
-Honduras: 802 new cases and 30 new deaths
-the Turks and Caicos Islands: 3 new cases
-Sint Maarten: 8 new cases
-Bolivia: 670 new cases and 34 new deaths
-South Korea: 77 new cases and 2 new deaths
-New Zealand: 12 new cases
-Mexico: 5,053 new cases and 483 new deaths
-China: 11 new cases
+Honduras: 391 new cases and 11 new deaths
+Mongolia: 1 new case
+Sint Maarten: 7 new cases
+Belgium: 1,968 new cases and 14 new deaths
+Kazakhstan: 60 new cases
+Pakistan: 467 new cases and 6 new deaths
+Australia: 24 new cases and 1 new death
+Bolivia: 239 new cases and 28 new deaths
+South Korea: 75 new cases
+New Zealand: 3 new cases
+China: 12 new cases
