@@ -1,13 +1,18 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+'use strict';
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+const createError = require('http-errors');
+const express = require('express');
+const {EventEmitter} = require('events');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
+const io = require('socket.io')();
+const filewatcher = require('./lib/filewatcher');
 
-var app = express();
+const indexRouter = require('./routes/index');
+//const usersRouter = require('./routes/users');
+
+const app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -20,7 +25,22 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+//app.use('/users', usersRouter);
+
+// create new Event
+var fileEvent = new EventEmitter();
+filewatcher.watch(fileEvent);
+
+// send a message on successful socket connection
+io.on('connection', function(socket){
+  socket.emit('message', 'Successfully connected.');
+  socket.on('message received', function(data){
+    console.log('Client is saying a message was received: ' + data);
+  });
+  fileEvent.on('changed file', function(data) {
+    socket.emit('diffed changes', data);
+  });
+});
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -38,4 +58,4 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-module.exports = app;
+module.exports = {app, io};

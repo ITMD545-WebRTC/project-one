@@ -3,10 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "dstart": "cross-env DEBUG=project-one:* npm start",
     "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+    "cross-env": "^7.0.2",
     "debug": "~2.6.9",
     "diff": "^4.0.2",
     "express": "^4.16.4",
@@ -14,6 +16,7 @@
     "http-server": "^0.12.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "puppeteer": "^5.3.1"
+    "puppeteer": "^5.3.1",
+    "socket.io": "^2.3.0"
   }
 }
