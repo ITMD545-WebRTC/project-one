@@ -15,3 +15,33 @@ socket.on('diffed changes', function(data){
   parent_li.append(nested_ul);
   changes.append(parent_li);
 });
+
+if ('Notification' in window) {
+  console.log('Notification support!');
+  var notify_button = document.createElement('button');
+  notify_button.id = "notify";
+  notify_button.innerText = "Send Notifications";
+  notify_button.addEventListener('click', function(event) {
+    Notification.requestPermission()
+      .then(function(permission) {
+        console.log('Permission:', permission);
+      })
+      .catch(function(error) {
+        console.error('Permission error:', error);
+      });
+  });
+  document.querySelector('body').append(notify_button);
+
+  if (Notification.permission == 'granted') {
+    var test_button = document.createElement('button');
+    test_button.id = "test-notify";
+    test_button.innerText = "Send Test Notifications";
+    test_button.addEventListener('click', function(event) {
+      var notification = new Notification('This is a notification');
+      nofitication.addEventListener('click', function(event) {
+        notification.close();
+      });
+    });
+    document.querySelector('body').append(test_button);
+  }
+}
