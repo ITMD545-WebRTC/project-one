@@ -1,16 +1,60 @@
 October 6 (GMT)
+Peru: 2,930 new cases and 80 new deaths
+Paraguay: 932 new cases and 19 new deaths
+Martinique: 308 new cases and 1 new death
+Argentina: 14,740 new cases and 359 new deaths
+Suriname: 11 new cases
+the United States: 38,778 new cases and 696 new deaths
+Brazil: 30,454 new cases and 798 new deaths
+Czechia: 4,456 new cases and 36 new deaths
+Guadeloupe: 791 new cases and 20 new deaths
+Uruguay: 22 new cases and 1 new death
+Guyana: 2 new deaths
+Norway: 180 new cases
+Nicaragua: 94 new cases
+Canada: 2,363 new cases and 26 new deaths
+Nigeria: 118 new cases
+Mauritania: 6 new cases
+Trinidad and Tobago: 79 new cases and 1 new death
+Colombia: 7,650 new cases and 173 new deaths
+Egypt: 121 new cases and 11 new deaths
+Bulgaria: 436 new cases and 8 new deaths
+Mali: 6 new cases
+Bahrain: 360 new cases and 1 new death
+Comoros: 4 new cases
+Bahamas: 107 new cases and 4 new deaths
+Namibia: 19 new cases
+Zimbabwe: 17 new cases and 1 new death
+Guinea: 63 new cases and 1 new death
+Sierra Leone: 8 new cases
+Yemen: 6 new cases and 1 new death
+Djibouti: 2 new cases
+Burkina Faso: 13 new cases
+Malawi: 2 new cases
+Côte d'Ivoire: 18 new cases
+South Africa: 1,027 new cases and 87 new deaths
+Rwanda: 6 new cases
+Togo: 17 new cases and 1 new death
+Chad: 15 new cases and 2 new deaths
+Eswatini: 19 new cases
+Germany: 2,462 new cases and 19 new deaths
+Monaco: 1 new case
+Seychelles: 2 new cases
+Israel: 4,717 new cases and 40 new deaths
+India: 72,106 new cases and 991 new deaths
+Botswana: 2 new deaths
+Costa Rica: 1,013 new cases and 17 new deaths
+Algeria: 129 new cases
+Angola: 195 new cases and 12 new deaths
+Syria: 46 new cases and 2 new deaths
 Cabo Verde: 85 new cases and 1 new death
-Germany: 2,410 new cases and 18 new deaths
 Qatar: 251 new cases
-the United States: 21,706 new cases and 376 new deaths
 Haiti: 11 new cases
 Morocco: 2,553 new cases and 41 new deaths
-India: 59,543 new cases and 620 new deaths
 France: 10,489 new cases and 66 new deaths
 Lebanon: 1,261 new cases and 10 new deaths
 Maldives: 54 new cases
 Ethiopia: 566 new cases and 8 new deaths
-Canada: 1,912 new cases and 22 new deaths
 Aruba: 14 new cases
 the State of Palestine: 475 new cases and 10 new deaths
 Ireland. Validation of data at the HPSC has resulted: 424 new cases and 1 new death
@@ -19,10 +63,7 @@ Spain. Data are provisional and subject to change. From Sept. 26 onward, the va
 Turkey: 1,511 new cases and 55 new deaths
 Channel Islands: 9 new cases
 Sri Lanka: 739 new cases
-Israel: 4,130 new cases and 27 new deaths
 Ecuador: 717 new cases and 21 new deaths
-Brazil: 6,414 new cases and 135 new deaths
-Czechia: 1,610 new cases and 31 new deaths
 Jordan: 1,537 new cases and 12 new deaths
 French Guiana: 13 new cases and 1 new death
 Cyprus: 29 new cases and 1 new death
@@ -43,14 +84,12 @@ the Republic of North Macedonia: 223 new cases and 8 new deaths
 Moldova: 831 new cases and 14 new deaths
 Chile: 1,560 new cases and 33 new deaths
 Kenya: 137 new cases and 8 new deaths
-Trinidad and Tobago: 51 new cases and 1 new death
 the DR Congo: 11 new cases
 Cuba: 38 new cases
 Iraq: 4,172 new cases and 67 new deaths
 Portugal: 427 new cases and 14 new deaths
 Myanmar: 1,252 new cases and 27 new deaths
 Libya: 1,031 new cases and 6 new deaths
-Norway: 65 new cases
 Tajikistan: 40 new cases
 Gambia: 19 new cases and 2 new deaths
 Uzbekistan: 397 new cases and 4 new deaths
@@ -69,7 +108,6 @@ Vietnam: 1 new case
 Denmark: 322 new cases and 4 new deaths
 Iceland: 101 new cases
 Azerbaijan: 143 new cases and 2 new deaths
-Bahrain: 1 new death
 Kuwait: 676 new cases and 4 new deaths
 Madagascar: 30 new cases and 1 new death
 Mexico, out of the 28,115 newly reported cases and 2,789 newly reported deaths that occurred mostly: 3,417 new cases and 180 new deaths
