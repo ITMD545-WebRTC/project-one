@@ -3,5 +3,8 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  h2 Here are the changes to the file:
+  | The following data is taken from
+  a(href="//worldometers.info/coronavirus/#news") worldmeters.info
+  | , which reports the number of positive cases from around the world.
+  h3 Here are the changes to the file:
   ul#changes
