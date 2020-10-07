@@ -1,12 +1,30 @@
 October 6 (GMT)
+Cabo Verde: 85 new cases and 1 new death
+Germany: 2,410 new cases and 18 new deaths
+Qatar: 251 new cases
+the United States: 21,706 new cases and 376 new deaths
+Haiti: 11 new cases
+Morocco: 2,553 new cases and 41 new deaths
+India: 59,543 new cases and 620 new deaths
+France: 10,489 new cases and 66 new deaths
+Lebanon: 1,261 new cases and 10 new deaths
+Maldives: 54 new cases
+Ethiopia: 566 new cases and 8 new deaths
+Canada: 1,912 new cases and 22 new deaths
+Aruba: 14 new cases
+the State of Palestine: 475 new cases and 10 new deaths
+Ireland. Validation of data at the HPSC has resulted: 424 new cases and 1 new death
+Curaçao: 14 new cases
+Spain. Data are provisional and subject to change. From Sept. 26 onward, the values for daily new cases are based on the weekly case figures provided by the Ministry of Health: 12,793 new cases and 261 new deaths
+Turkey: 1,511 new cases and 55 new deaths
+Channel Islands: 9 new cases
+Sri Lanka: 739 new cases
 Israel: 4,130 new cases and 27 new deaths
-Germany: 1,212 new cases and 11 new deaths
 Ecuador: 717 new cases and 21 new deaths
 Brazil: 6,414 new cases and 135 new deaths
 Czechia: 1,610 new cases and 31 new deaths
 Jordan: 1,537 new cases and 12 new deaths
 French Guiana: 13 new cases and 1 new death
-India: 42,307 new cases and 432 new deaths
 Cyprus: 29 new cases and 1 new death
 Mozambique: 102 new cases and 1 new death
 Luxembourg: 54 new cases and 1 new death
@@ -21,7 +39,6 @@ the Dominican Republic: 317 new cases and 5 new deaths
 Italy: 2,677 new cases and 28 new deaths
 Jamaica: 97 new cases and 3 new deaths
 Guatemala: 688 new cases and 8 new deaths
-Canada: 548 new cases and 7 new deaths
 the Republic of North Macedonia: 223 new cases and 8 new deaths
 Moldova: 831 new cases and 14 new deaths
 Chile: 1,560 new cases and 33 new deaths
@@ -31,7 +48,6 @@ the DR Congo: 11 new cases
 Cuba: 38 new cases
 Iraq: 4,172 new cases and 67 new deaths
 Portugal: 427 new cases and 14 new deaths
-Sri Lanka: 605 new cases
 Myanmar: 1,252 new cases and 27 new deaths
 Libya: 1,031 new cases and 6 new deaths
 Norway: 65 new cases
@@ -49,7 +65,6 @@ the Netherlands: 4,528 new cases and 21 new deaths
 Sweden: 5 new deaths
 Equatorial Guinea: 7 new cases
 the Central African Republic: 7 new cases
-the United States: 10,708 new cases and 206 new deaths
 Vietnam: 1 new case
 Denmark: 322 new cases and 4 new deaths
 Iceland: 101 new cases
