@@ -33,11 +33,11 @@ if ('serviceWorker' in navigator) {
 }
 
 if ('Notification' in window) {
-  console.log('Notification support!');
-  var notify_button = document.createElement('button');
-  notify_button.id = "notify";
-  notify_button.innerText = "Send Notifications";
-  notify_button.addEventListener('click', function(event) {
+  console.log('Notifications supported.');
+  var enable_notifications_button = document.createElement('button');
+  enable_notifications_button.id = "notify";
+  enable_notifications_button.innerText = "Enable Notifications";
+  enable_notifications_button.addEventListener('click', function(event) {
     Notification.requestPermission()
       .then(function(permission) {
         console.log('Permission:', permission);
@@ -46,18 +46,14 @@ if ('Notification' in window) {
         console.error('Permission error:', error);
       });
   });
-  document.querySelector('body').append(notify_button);
+  document.querySelector('body').append(enable_notifications_button);
 
   if (Notification.permission == 'granted') {
-    var test_button = document.createElement('button');
-    test_button.id = "test-notify";
-    test_button.innerText = "Send Test Notifications";
-    test_button.addEventListener('click', function(event) {
-      var notification = new Notification('This is a notification');
-      nofitication.addEventListener('click', function(event) {
-        notification.close();
-      });
+    var notification = new Notification('New updates have been made.');
+    notification.addEventListener('click', function(event) {
+      notification.close();
     });
-    document.querySelector('body').append(test_button);
+  } else {
+    console.log('Permission currently denied.');
   }
 }
