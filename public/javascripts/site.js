@@ -16,6 +16,22 @@ socket.on('diffed changes', function(data){
   changes.append(parent_li);
 });
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('service-worker.js')
+    .then(function(registration) {
+      console.log(`Service worker registration succeeded for: ${registration.scope}`);
+      registration.addEventListener('updatefound', function() {
+        var installingWorker = registration.installing;
+        console.log('A new service worker is being installed:', installingWorker);
+      })
+    })
+    .catch(function(error) {
+      console.error('Service worker registration failed:', error)
+    });
+} else {
+  console.log('Service workers are not supported.');
+}
+
 if ('Notification' in window) {
   console.log('Notification support!');
   var notify_button = document.createElement('button');
