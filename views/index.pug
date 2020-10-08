@@ -2,6 +2,14 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
-  h2 Here are the changes to the file:
-  ul#changes
+  img(src='/img/icons8-coronavirus-80.png')
+  h3 Welcome to #{title}
+  p
+    | The following data is taken from
+    a(href="//worldometers.info/coronavirus/#news") worldmeters.info
+    | , which keeps track all of the new coronavirus cases reported worldwide.
+
+  p Here are the changes to the file:
+
+  .results-box
+    ul#changes
